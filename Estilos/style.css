@@ -1,0 +1,32 @@
+/* Clase del título */
+.titulo {
+    text-align: center;
+    color:gray;
+}
+
+/* Clase para controlar los margin y padding*/
+.divisiones {
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Clase para crear cajas donde irá ubicado el contenido*/
+.caja {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000;
+    text-align: center;
+    margin: 5px;
+}
+
+/* Identificador del cuadro de texto DOMÓTICA */
+#domotica {
+    width: 50%;
+    background-color: cyan;
+}
+
+/* Identificador del cuadro de texto de los BENEFICIOS */
+#beneficios {
+    width: 50%;
+    background-color: cyan;
+}
