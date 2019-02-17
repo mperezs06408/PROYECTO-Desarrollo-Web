@@ -12,4 +12,7 @@ aplicaciones realizadas.
 
 -Se agregan las primeras clases de CSS3 para encerrar cajas de texto con
 sus diferentes atributos y propiedades para cumplir el esquema del
-MockUp-
+MockUp
+
+-Fue agregado el Grid lateral y se solucionó el error para que los Grid de
+DOMÓTICA y BENEFICIOS quedaran paralelos el uno del otro.
