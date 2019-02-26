@@ -1,10 +1,13 @@
+
 /* Clase del título */
 .titulo {
     text-align: center;
-    color:gray;
-    font-family: sans-serif;
+    color:purple;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
-
+h1 {
+    font-size: 50px;
+}
 /* Clase para controlar los margin y padding*/
 .divisiones {
     margin: 5px;
