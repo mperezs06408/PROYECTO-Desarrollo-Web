@@ -1,13 +1,14 @@
 /* Clase del título */
-
 .titulo {
     text-align: center;
     color:purple;
     font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
+/*Codigo css para etiquetas h1*/
 h1 {
     font-size: 50px;
 }
+/*Código css para editar boton en index*/
 .boton {
     width: 100%;
     background-color: black;
