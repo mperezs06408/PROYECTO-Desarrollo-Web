@@ -1,0 +1,61 @@
+/* Clase del título */
+.titulo {
+    text-align: center;
+    color:purple;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+/*Codigo css para etiquetas h1*/
+h1 {
+    font-size: 50px;
+}
+/*Código css para editar boton en index*/
+.boton {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+/* Clase para controlar los margin y padding*/
+.divisiones {
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Clase para crear cajas donde irá ubicado el contenido*/
+.caja {
+    border-style:hidden;
+    border-width: 2px;
+    border-color: #000;
+    text-align: center;
+
+    background-color:aqua;
+    overflow: hidden;
+    font-family: monospace;
+
+}
+
+/* Identificador del cuadro de texto DOMÓTICA */
+#domotica {
+    width:35%;
+    background-color: white;
+    margin: 40px;
+    float: left;
+    text-align: justify
+}
+
+/* Identificador del cuadro de texto de los BENEFICIOS */
+#beneficios {
+    width: 35%;
+    background-color: white;
+    margin:40px;
+    text-align: justify;
+}
+
+
+/* Identificador del cuadro de texto lateral*/
+#lateral{
+    background-color: darkgoldenrod;
+    color: white;
+    float: left;
+
+}
+
